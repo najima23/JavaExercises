@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/schimkat-lernhilfe2013ws-objectplay-01.jar"/>
+	<classpathentry kind="lib" path="lib/schimkat-lernhilfe2013ws-io-01.jar"/>
+	<classpathentry kind="lib" path="lib/schimkat-lernhilfe2013ws-graphics-01.jar"/>
+	<classpathentry kind="lib" path="lib/LH2017ss-gr.jar"/>
+	<classpathentry kind="lib" path="lib/LH2017ss-ev.jar"/>
+	<classpathentry kind="lib" path="lib/schimkat-lernhilfe-2013ws-jar-01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
